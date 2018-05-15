@@ -26,7 +26,7 @@ In one line, React is a JavaScript library for building user interfaces. It is m
 
 ## React in terms of Service Desk
 
-### Responsive software
+### Responsive Design
 
 - With `ReactJS`, dynamic pages are very fast and responsive. Pages like Insights, Case Tables, Graphs, Knowledge Search Results will perform better. Its use of Virtual DOM and batch updates almost guarantees 4X better performance than current page and better than `Angular`.
 - `Angular` has a lot of new checks using `Zone.js` but this doesn't even come close to what Virtual DOM does for React.
